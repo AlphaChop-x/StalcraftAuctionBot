@@ -16,8 +16,8 @@ class StalcraftApi:
                     4: "исключительный",
                     5: "легендарный"}
 
-    client = {"Client-Id": "614",
-              "Client-Secret": "hNygXAGgdZBpRMrPPpvefbUXYUkrnxFHRWSRYiAw"}
+    client = {"Client-Id": "228",
+              "Client-Secret": "hNygXAGgdZBpRMНЕСМОТЕРТЬUXYUkrnxFHRWSRYiAw"}
 
     BASE_URL = "https://eapi.stalcraft.net/ru"
 
